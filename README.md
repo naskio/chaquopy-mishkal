@@ -2,6 +2,10 @@
 
 This is an example for running a Python library (mishkal) in Android using chaquopy
 
+<p align="left">
+  <img src="screenshot.png" width="350" title="screenshot" alt="screenshot">
+</p>
+
 ## Code
 
 All the code that has been added to run the python library is located between a two comments `python-start`
