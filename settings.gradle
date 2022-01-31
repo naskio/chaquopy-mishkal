@@ -1,0 +1,2 @@
+rootProject.name = "MishkalAndroid"
+include ':app'
